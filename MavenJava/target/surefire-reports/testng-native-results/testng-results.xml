@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-01-12T02:17:08 IST" name="Surefire suite" finished-at="2021-01-12T02:17:08 IST" duration-ms="78">
+    <groups>
+    </groups>
+    <test started-at="2021-01-12T02:17:08 IST" name="Surefire test" finished-at="2021-01-12T02:17:08 IST" duration-ms="78">
+      <class name="MavenPack.SeleniumTest">
+        <test-method signature="SeleniumTest1()[pri:0, instance:MavenPack.SeleniumTest@62379589]" started-at="2021-01-12T02:17:08 IST" name="SeleniumTest1" finished-at="2021-01-12T02:17:08 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeleniumTest1 -->
+        <test-method signature="SeleniumTest2()[pri:0, instance:MavenPack.SeleniumTest@62379589]" started-at="2021-01-12T02:17:08 IST" name="SeleniumTest2" finished-at="2021-01-12T02:17:08 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeleniumTest2 -->
+      </class> <!-- MavenPack.SeleniumTest -->
+      <class name="MavenPack.RestAPITest">
+        <test-method signature="RestAPITest2()[pri:0, instance:MavenPack.RestAPITest@3754a4bf]" started-at="2021-01-12T02:17:08 IST" name="RestAPITest2" finished-at="2021-01-12T02:17:08 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAPITest2 -->
+        <test-method signature="RestAPITest1()[pri:0, instance:MavenPack.RestAPITest@3754a4bf]" started-at="2021-01-12T02:17:08 IST" name="RestAPITest1" finished-at="2021-01-12T02:17:08 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestAPITest1 -->
+      </class> <!-- MavenPack.RestAPITest -->
+      <class name="MavenPack.AppiumTest">
+        <test-method signature="AppiumTest1()[pri:0, instance:MavenPack.AppiumTest@13c9d689]" started-at="2021-01-12T02:17:08 IST" name="AppiumTest1" finished-at="2021-01-12T02:17:08 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppiumTest1 -->
+        <test-method signature="AppiumTest2()[pri:0, instance:MavenPack.AppiumTest@13c9d689]" started-at="2021-01-12T02:17:08 IST" name="AppiumTest2" finished-at="2021-01-12T02:17:08 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AppiumTest2 -->
+      </class> <!-- MavenPack.AppiumTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
